@@ -1,0 +1,22 @@
+{
+  "name": "chuonghoang99",
+  "version": "1.0.0",
+  "description": "readme github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuonghoang99/chuonghoang99.git"
+  },
+  "author": "chuonghoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuonghoang99/chuonghoang99/issues"
+  },
+  "homepage": "https://github.com/chuonghoang99/chuonghoang99#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
