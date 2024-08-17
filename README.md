@@ -17,45 +17,24 @@
 <i>I LOVE YOU</i>
 
 </div>
-
 ### Contents:
-
 ## Categories
-
 #### Github Actions 🤖
-
 #### Game Mode 🚀
-
 #### Code Mode 👨🏽‍💻
-
 #### Dynamic Realtime 💫
-
 #### A Little Bit of Everything 😃
-
 #### Descriptive 🗒
-
 #### Simple but Innovative Ones 🤗
-
 #### Typing.. Mode 🎰
-
 #### Anime 👾
-
 #### Minimalistic ✨
-
 #### GIFS 👻
-
 #### Just Images 🎭
-
 #### Badges 🎫
-
 #### Fancy Fonts 🖋
-
 #### Icons 🎯
-
 #### Retro 😎
-
 ## Tools
-
 ## Tutorials
-
 ## Contribute## Special Thanks 🙇## License
